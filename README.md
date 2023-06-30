@@ -61,7 +61,10 @@ ChatGPT is een natural language processing (NLP) model en zijn capability domain
 
   In levenstijl en ontspanning kan ChatGPT persoonlijk bieden advies over mode, interieurontwerp en reizen. Het helpt ook bij het creëren van recepten, geeft hobby-suggesties en aanbevelingen voor boeken, films, muziek en evenementen.
 
-ChatGPT is makkelijk te gebruiken, het reageert op instructies door antwoorden direct onder te plaatsen en nieuwe sessies kunnen makkelijk gecreeert worden door links boven op "New chat" te selecteren.
+ChatGPT is makkelijk te gebruiken, het reageert op instructies in de balk onderaan, antwoorden staan direct je antwoord en nieuwe sessies kunnen makkelijk gecreeert worden door links boven op "New chat" te selecteren. Je kan ook naar oude sessies gaan of opnieuw een antwoord krijgen op een vraag.
+
+![image](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/880b3fe4-b2bb-4654-b322-a81dfdb4011b)
+![image](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/2d9cb305-6c4b-4306-a869-10dc0d0df160)
 
 Sources
 
