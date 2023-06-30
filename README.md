@@ -66,6 +66,16 @@ ChatGPT is makkelijk te gebruiken, het reageert op instructies in de balk ondera
 ![image](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/880b3fe4-b2bb-4654-b322-a81dfdb4011b)
 ![image](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/2d9cb305-6c4b-4306-a869-10dc0d0df160)
 
+ChatGPT is een autoregressief taalmodel dat contextueel passende antwoorden genereert door voorspellingen te doen op basis van de vorige context. Het maakt gebruik van een Transformer-architectuur met 175 miljard parameters, waardoor het in staat is om hoogwaardige en coherente antwoorden te genereren en zich aan te passen binnen de regels (, de parameters). Het model is getraind door text databases van het internet, dit zijn boeken, forums, artikels en Wikipedia.[^2] Het model ondergaat een pre-training en fine-tuning proces om taalbegrip en specialisatie te bereiken. Hierdoor kan ChatGPT op een conversatieve manier contextueel relevante antwoorden produceren. 
+
+## Part III
+
+
+
+## Part IVI
+
 Sources
 
 [^1]: [Bahrini et al, 2023, ChatGPT: Applications, Opportunities, and Threats](https://arxiv.org/abs/2304.09103)
+
+[^2]: [Hughes A. 2023, ChatGPT: Everything you need to know about OpenAI's GPT-4 tool](https://www.sciencefocus.com/future-technology/gpt-3/)
