@@ -93,8 +93,8 @@ Het zijn maar beweringen maar we zien dat tech-bedrijven goed moeten omgaan met 
 
 Enkele artikelen over ChatGPT:
 - How to use ChatGPT as a learning tool: Dit artikel bespreekt hoe ChatGPT een leermiddel kan zijn en hoe het studenten kan helpen zich voor te bereiden op de echte wereld door kritisch denken aan te moedigen.[^11]
-- ChatGPT is a data privacy nightmare: If you’ve ever posted online, you ought to be concerned - Dit artikel bespreekt hoe ChatGPT een nachtmerrie is voor gegevensprivacy en waarom u zich zorgen moet maken als u ooit online hebt gepost. Het artikel bespreekt hoe de gegevensverzameling die wordt gebruikt om ChatGPT te trainen, om verschillende redenen problematisch is.[^12]
-- Are my ChatGPT messages private? - The Washington Post Dit artikel bespreekt of uw ChatGPT-berichten privé zijn en geeft aanbevelingen voor privacy-instellingen.[^13]
+- ChatGPT is a data privacy nightmare: Dit artikel bespreekt hoe ChatGPT een nachtmerrie is voor gegevensprivacy en waarom u zich zorgen moet maken als u ooit online hebt gepost. Het artikel bespreekt hoe de gegevensverzameling die wordt gebruikt om ChatGPT te trainen, om verschillende redenen problematisch is.[^12]
+- Why you shouldn’t tell ChatGPT your secrets: Dit artikel bespreekt of uw ChatGPT-berichten privé zijn en geeft aanbevelingen voor privacy-instellingen.[^13]
 
 Deze artikelen zijn relevant omdat het gaat over onderwijs door gebruik van ChatGPT of privacyzaken rondom ChatGPT.
 
