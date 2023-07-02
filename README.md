@@ -9,8 +9,8 @@ Karakteristieken van AI:
 - AI heeft **algoritme** nodig om voorspellingen te maken van data
 - Algoritme gaan samen met data om een **AI-model** te creeeren, simpelweg een systeem
 - **Feedback** is nodig om betere resultaten te produceren
-  
-![Mind Map](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/a77bd76f-e604-4ee1-92c4-ef0857390142)
+
+![Mind Map](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/d301fa96-7843-4a84-b346-bff80bf5b807)
 
 ## Part II
 OpenAI, een AI research en deployment bedrijf, heeft een AI-model getraind genaamd ChatGPT. ChatGPT is in staat om te antwoorden op vragen, excusen aanbieden tegen fouten en instructies te weigeren. 
@@ -63,8 +63,8 @@ ChatGPT is een natural language processing (NLP) model en zijn capability domain
 
 ChatGPT is makkelijk te gebruiken, het reageert op instructies in de balk onderaan, antwoorden staan direct je antwoord en nieuwe sessies kunnen makkelijk gecreeert worden door links boven op "New chat" te selecteren. Je kan ook naar oude sessies gaan of opnieuw een antwoord krijgen op een vraag.
 
-![image](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/880b3fe4-b2bb-4654-b322-a81dfdb4011b)
-![image](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/2d9cb305-6c4b-4306-a869-10dc0d0df160)
+![ChatGPT_1](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/654d2bf0-061e-4739-9577-3d2ebb295ce6)
+![ChatGPT_2](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/53dbc04a-236d-4bca-8854-9dd0ff148f54)
 
 ChatGPT is een autoregressief taalmodel dat contextueel passende antwoorden genereert door voorspellingen te doen op basis van de vorige context. Het maakt gebruik van een Transformer-architectuur met 175 miljard parameters, waardoor het in staat is om hoogwaardige en coherente antwoorden te genereren en zich aan te passen binnen de regels (, de parameters). Parameters kunnen bijvoorbeeld de toegestaande aantal antwoorden zijn, Length, of een parameter dat bepaalt hoe creatief een antwoord mag zijn, Temperature.[^2] Het model is getraind door text databases van het internet, dit zijn boeken, forums, artikels en Wikipedia stukken. Het model ondergaat een pre-training en fine-tuning proces om taalbegrip en specialisatie te bereiken. Hierdoor kan ChatGPT op een conversatieve manier contextueel relevante antwoorden produceren.[^3]
 
