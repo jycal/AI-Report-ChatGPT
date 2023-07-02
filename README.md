@@ -8,7 +8,7 @@ Karakteristieken van AI:
 - Om een systeem, AI te noemen moet het kunnen **leren** om zich aan te passen aan nieuwe scenarios
 - AI heeft **algoritme** nodig om voorspellingen te maken van data
 - Algoritme gaan samen met data om een **AI-model** te creeeren, simpelweg een systeem
-- Feedback is nodig om betere resultaten te produceren
+- **Feedback** is nodig om betere resultaten te produceren
   
 ![Mind Map](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/a77bd76f-e604-4ee1-92c4-ef0857390142)
 
