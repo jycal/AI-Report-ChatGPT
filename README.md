@@ -1,5 +1,8 @@
 # AI-Report-ChatGPT
-Demystyfing AI & Human Centered Data Products
+Demystyfing AI & Human Centered Data Products 
+
+*ChatGPT is gebruikt voor taalsuggesties*
+
 ## Part I
 Wat is Artificial Intelligence precies? AI is in staat om te leren van ervaring dus ze kunnen zich aanpassen aan nieuwe evaringen net als een mens en hierdoor kunnen ze simpele taken uitvoeren.
 
@@ -15,11 +18,9 @@ Karakteristieken van AI:
 ## Part II
 OpenAI, een AI research en deployment bedrijf, heeft een AI-model getraind genaamd ChatGPT. ChatGPT is in staat om te antwoorden op vragen, excusen aanbieden tegen fouten en instructies te weigeren. 
 
-De meeste mensen in mijn omgeving gebruiken het als een tool om code te debuggen of code te produceren naar gewenste eisen verder zie ik ook mensen het gebruiken om conversaties mee te hebben en vragen te stellen. Ook gebruik ik het weleens om dingen samen te vatten of om suggesties te krijgen over hoe een zin beter geconstrueerd kan worden, het heeft dus veel redenen om het te gebruiken.
+De meeste mensen in mijn omgeving gebruiken het als een tool om code te debuggen of code te produceren naar gewenste eisen verder zie ik ook mensen het gebruiken om conversaties mee te hebben en vragen te stellen. Ook gebruik ik het weleens om dingen samen te vatten of om suggesties te krijgen over hoe een zin beter geconstrueerd kan worden en het is te vinden in dit report, het heeft dus veel redenen om het te gebruiken. 
 
 ChatGPT is een natural language processing (NLP) model en zijn capability domains zijn best breed[^1]:
-
-*Samenvattingen van domeinen geschreven met hulp van ChatGPT*
 
 - Bedrijfsleven
 
