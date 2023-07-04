@@ -78,7 +78,7 @@ De populairste use-cases voor ChatGPT zijn[^4][^5]:
 3. Onderwijs
    - Je kan ChatGPT gebruiken om lesideeen te creeeren en het kan je helpen bij het maken van huiswerk. 
 
-Prompt engineering-technieken worden gebruikt om inhoud te genereren die boeiend en informatief is. Het prestatieniveau en de nauwkeurigheid van ChatGPT in contentcreatie hangen af van de kwaliteit van de trainingsgegevens en de parameters die worden gebruikt om het model te trainen.
+Prompt engineering-technieken worden gebruikt om inhoud te genereren die boeiend en informatief is. Het prestatieniveau en de nauwkeurigheid van ChatGPT in contentcreatie hangt af van de kwaliteit van de trainingsgegevens en de parameters die worden gebruikt om het model te trainen.
 
 ChatGPT is te gebruiken voor veel use-cases; het punt ligt echter op correct informatie. OpenAI geeft zelf aan dat ChatGPT mogelijk fout informatie kan leveren dus fact-checking is vrij lastig. Ook bij educatieve doeleinden zoals tutoring en sourcing kan ChatGPT wel zinnen construeren zonder spel- en grammatica fouten maar het kan nogsteeds incorrrect informatie tonen door dingen te verzinnen.[^6] Verder heeft ChatGPT-4 een betere redenering in Theory-of-Mind problem solving maar loopt nog tegen veel fouten aan blijkt uit research: "ChatGPT-4 was shown to arrive at the correct answers more often than would be expected based on chance, although correct answers were often arrived at on the basis of false
 assumptions or invalid reasoning."[^7]
