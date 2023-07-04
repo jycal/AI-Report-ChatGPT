@@ -1,7 +1,7 @@
 # AI-Report-ChatGPT
 Demystyfing AI & Human Centered Data Products 
 
-*ChatGPT is gebruikt voor taalsuggesties*
+*ChatGPT is gebruikt voor spelfouten corrigeren van zinnen en samenvatten van zinnen*
 
 ## Part I
 Wat is Artificial Intelligence precies? AI is in staat om te leren van ervaring dus ze kunnen zich aanpassen aan nieuwe evaringen net als een mens en hierdoor kunnen ze simpele taken uitvoeren.
