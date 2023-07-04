@@ -4,19 +4,19 @@ Demystyfing AI & Human Centered Data Products
 *ChatGPT is gebruikt voor taalsuggesties*
 
 ## Part I
-Wat is Artificial Intelligence precies? AI is in staat om te leren van ervaring dus ze kunnen zich aanpassen aan nieuwe evaringen net als een mens en hierdoor kunnen ze simpele taken uitvoeren.
+Wat is Artificial Intelligence precies? AI is in staat om te leren van ervaring dus ze kunnen zich aanpassen aan nieuwe ervaringen net als een mens en hierdoor kunnen ze simpele taken uitvoeren.
 
 Karakteristieken van AI:
 - AI heeft **data** nodig om resultaten te produceren, dus voor een output heb je input nodig
-- Om een systeem, AI te noemen moet het kunnen **leren** om zich aan te passen aan nieuwe scenarios
+- Om een systeem, AI te noemen moet het kunnen **leren** om zich aan te passen aan nieuwe scenario's
 - AI heeft **algoritme** nodig om voorspellingen te maken van data
-- Algoritme gaan samen met data om een **AI-model** te creeeren, simpelweg een systeem
+- Algoritme gaan samen met data om een **AI-model** te creëren, simpelweg een systeem
 - **Feedback** is nodig om betere resultaten te produceren
 
 ![Mind Map](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/d301fa96-7843-4a84-b346-bff80bf5b807)
 
 ## Part II
-OpenAI, een AI research en deployment bedrijf, heeft een AI-model getraind genaamd ChatGPT. ChatGPT is in staat om te antwoorden op vragen, excusen aanbieden tegen fouten en instructies te weigeren. 
+OpenAI, een AI research en deployment bedrijf, heeft een AI-model getraind genaamd ChatGPT. ChatGPT is in staat om te antwoorden op vragen, excuses aanbieden tegen fouten en instructies te weigeren. 
 
 De meeste mensen in mijn omgeving gebruiken het als een tool om code te debuggen of code te produceren naar gewenste eisen verder zie ik ook mensen het gebruiken om conversaties mee te hebben en vragen te stellen. Ook gebruik ik het weleens om dingen samen te vatten of om suggesties te krijgen over hoe een zin beter geconstrueerd kan worden en het is te vinden in dit report, het heeft dus veel redenen om het te gebruiken. 
 
@@ -40,7 +40,7 @@ ChatGPT is een natural language processing (NLP) model en zijn capability domain
 
 - Gezondheidszorg & Geneeskunde
 
-  In de gezondheidszorg en geneeskunde kan ChatGPT worden gebruikt voor symptoomcontrole, gepersonaliseerde gezondheidsaanbevelingen, farmaceutische toepassingen en diergezondheid.
+  In de gezondheidszorg en geneeskunde kan ChatGPT worden gebruikt voor symptoom controle, gepersonaliseerde gezondheidsaanbevelingen, farmaceutische toepassingen en diergezondheid.
 
 - Infrastructuur
 
@@ -58,29 +58,29 @@ ChatGPT is een natural language processing (NLP) model en zijn capability domain
 
   In kunst en cultuur kan ChatGPT creatieve inhoud genereren, zoals verhalen, gedichten, scripts en songteksten. Het kan ook helpen bij het vertalen en interpreteren van kunstwerken.
 
-- Levenstijl & Ontspanning
+- Levensstijl & Ontspanning
 
-  In levenstijl en ontspanning kan ChatGPT persoonlijk bieden advies over mode, interieurontwerp en reizen. Het helpt ook bij het creëren van recepten, geeft hobby-suggesties en aanbevelingen voor boeken, films, muziek en evenementen.
+  In levensstijl en ontspanning kan ChatGPT persoonlijk bieden advies over mode, interieurontwerp en reizen. Het helpt ook bij het creëren van recepten, geeft hobby-suggesties en aanbevelingen voor boeken, films, muziek en evenementen.
 
-ChatGPT is makkelijk te gebruiken, het reageert op instructies in de balk onderaan, antwoorden staan direct onder je antwoord en nieuwe sessies kunnen makkelijk gecreeert worden door links boven op "New chat" te selecteren. Je kan ook naar oude sessies gaan of opnieuw een antwoord krijgen op een vraag.
+ChatGPT is makkelijk te gebruiken, het reageert op instructies in de balk onderaan, antwoorden staan direct onder je antwoord en nieuwe sessies kunnen makkelijk gecreëerd worden door links boven op "New chat" te selecteren. Je kan ook naar oude sessies gaan of opnieuw een antwoord krijgen op een vraag.
 
 ![ChatGPT_1](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/654d2bf0-061e-4739-9577-3d2ebb295ce6)
 ![ChatGPT_2](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/53dbc04a-236d-4bca-8854-9dd0ff148f54)
 
-ChatGPT is een autoregressief taalmodel dat contextueel passende antwoorden genereert door voorspellingen te doen op basis van de vorige context. Het maakt gebruik van een Transformer-architectuur met 175 miljard parameters, waardoor het in staat is om hoogwaardige en coherente antwoorden te genereren en zich aan te passen binnen de regels (, de parameters). Parameters kunnen bijvoorbeeld de toegestaande aantal antwoorden zijn, Length, of een parameter dat bepaalt hoe creatief een antwoord mag zijn, Temperature.[^2] Het model is getraind door text databases van het internet, dit zijn boeken, forums, artikels en Wikipedia stukken. Het model ondergaat een pre-training en fine-tuning proces om taalbegrip en specialisatie te bereiken. Hierdoor kan ChatGPT op een conversatieve manier contextueel relevante antwoorden produceren.[^3]
+ChatGPT is een autoregressief taalmodel dat contextueel passende antwoorden genereert door voorspellingen te doen op basis van de vorige context. Het maakt gebruik van een Transformer-architectuur met 175 miljard parameters, waardoor het in staat is om hoogwaardige en coherente antwoorden te genereren en zich aan te passen binnen de regels (, de parameters). Parameters kunnen bijvoorbeeld de toegestane aantal antwoorden zijn, Length, of een parameter dat bepaalt hoe creatief een antwoord mag zijn, Temperature.[^2] Het model is getraind door text-databases van het internet, dit zijn boeken, forums, artikels en Wikipedia stukken. Het model ondergaat een pre-training en fine-tuning proces om taalbegrip en specialisatie te bereiken. Hierdoor kan ChatGPT op een conversatieve manier contextueel relevante antwoorden produceren.[^3]
 
 ## Part III
 De populairste use-cases voor ChatGPT zijn[^4][^5]:
 1. Conversational AI
-   - Vaak kan je merken dat chatbots gelimiteerde hoeveelheid zinnnen heeft en niet op alles kan antwoorden. Met ChatGPT zou je beter menselijke antwoorden kunnen geven.
+   - Vaak kan je merken dat chatbots gelimiteerde hoeveelheid zinnen heeft en niet op alles kan antwoorden. Met ChatGPT zou je beter menselijke antwoorden kunnen geven.
 2. Content Creation
    - ChatGPT kan creative stukken produceren voor bijvoorbeeld blogs en social media of persoonlijke projecten.
 3. Onderwijs
-   - Je kan ChatGPT gebruiken om lesideeen te creeeren en het kan je helpen bij het maken van huiswerk. 
+   - Je kan ChatGPT gebruiken om lesideeën te creëren en het kan je helpen bij het maken van huiswerk. 
 
-Prompt engineering-technieken worden gebruikt om inhoud te genereren die boeiend en informatief is. Het prestatieniveau en de nauwkeurigheid van ChatGPT in contentcreatie hangen af van de kwaliteit van de trainingsgegevens en de parameters die worden gebruikt om het model te trainen.
+Prompt engineering-technieken worden gebruikt om inhoud te genereren die boeiend en informatief is. Het prestatieniveau en de nauwkeurigheid van ChatGPT in contentcreatie hangt af van de kwaliteit van de trainingsgegevens en de parameters die worden gebruikt om het model te trainen.
 
-ChatGPT is te gebruiken voor veel use-cases; het punt ligt echter op correct informatie. OpenAI geeft zelf aan dat ChatGPT mogelijk fout informatie kan leveren dus fact-checking is vrij lastig. Ook bij educatieve doeleinden zoals tutoring en sourcing kan ChatGPT wel zinnen construeren zonder spel- en grammatica fouten maar het kan nogsteeds incorrrect informatie tonen door dingen te verzinnen.[^6] Verder heeft ChatGPT-4 een betere redenering in Theory-of-Mind problem solving maar loopt nog tegen veel fouten aan blijkt uit research: "ChatGPT-4 was shown to arrive at the correct answers more often than would be expected based on chance, although correct answers were often arrived at on the basis of false
+ChatGPT is te gebruiken voor veel use-cases; het punt ligt echter op correct informatie. OpenAI geeft zelf aan dat ChatGPT mogelijk fout informatie kan leveren dus fact-checking is vrij lastig. Ook bij educatieve doeleinden zoals tutoring en sourcing kan ChatGPT wel zinnen construeren zonder spel- en grammatica fouten maar het kan nog steeds incorrect informatie tonen door dingen te verzinnen.[^6] Verder heeft ChatGPT-4 een betere redenering in Theory-of-Mind problem solving maar loopt nog tegen veel fouten aan blijkt uit research: "ChatGPT-4 was shown to arrive at the correct answers more often than would be expected based on chance, although correct answers were often arrived at on the basis of false
 assumptions or invalid reasoning."[^7]
 
 ## Part IV
@@ -97,7 +97,7 @@ Enkele artikelen over ChatGPT:
 - ChatGPT is a data privacy nightmare: Dit artikel bespreekt hoe ChatGPT een nachtmerrie is voor gegevensprivacy en waarom u zich zorgen moet maken als u ooit online hebt gepost. Het artikel bespreekt hoe de gegevensverzameling die wordt gebruikt om ChatGPT te trainen, om verschillende redenen problematisch is.[^12]
 - Why you shouldn’t tell ChatGPT your secrets: Dit artikel bespreekt of uw ChatGPT-berichten privé zijn en geeft aanbevelingen voor privacy-instellingen.[^13]
 
-Deze artikelen zijn relevant omdat het gaat over onderwijs door gebruik van ChatGPT of privacyzaken rondom ChatGPT.
+Deze artikelen zijn relevant omdat het gaat over onderwijs door gebruik van ChatGPT of privacy zaken rondom ChatGPT.
 
 Bronnen
 
