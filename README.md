@@ -13,7 +13,7 @@ Karakteristieken van AI:
 - Algoritme gaan samen met data om een **AI-model** te creëren, simpelweg een systeem
 - **Feedback** is nodig om betere resultaten te produceren
 
-![Mind Map](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/d301fa96-7843-4a84-b346-bff80bf5b807)
+![Improved Map](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/627eadc9-c052-4642-842d-016d72689708)
 
 ## Part II
 OpenAI, een AI research en deployment bedrijf, heeft een AI-model getraind genaamd ChatGPT. ChatGPT is in staat om te antwoorden op vragen, excuses aanbieden tegen fouten en instructies te weigeren. 
