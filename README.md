@@ -77,49 +77,89 @@ ChatGPT is een natural language processing (NLP) model en zijn capability domain
   Het bedrijfs- en industriedomein omvat een breed scala aan toepassingen op het gebied van bedrijfsvoering en management, supply chain management, bedrijfsanalyse, transport, human resources, marketing, e-commerce, accounting, financiën, retail, onroerend goed en verzekeringen. De belangrijkste kansen zijn verhoogde efficiëntie en kostenbesparingen, verbeterde besluitvorming en risicobeperking, betere voorspellingsnauwkeurigheid en geoptimaliseerde planning, verminderde werklast en fraudeopsporing.
   In het bedrijfsleven en de industrie kan ChatGPT helpen bij het voorspellen van de vraag, het optimaliseren van de voorraad, het selecteren en evalueren van leveranciers, het optimaliseren van de logistiek en het beheersen van risico's in de supply chain, hiervoor is veel data nodig. Verder kan het ChatGPT ingezet worden in marketing door bijvoorbeeld het een marketing plan te laten maken.
 
+  Voorbeeldprompten: 
+  - "Geef een marketingplan voor het verkoop van mijn nieuwe product"
+  - "Hoe kan ik de efficiëntie van mijn supply chain verbeteren?"
+
 - Onderwijs
 
   Er zijn veel technologische hulpmiddelen en softwaretoepassingen beschikbaar in het onderwijsdomein die kunnen worden gebruikt voor online leren, taal leren, academisch en algemeen onderzoek, lesgeven ondersteuning, schrijven, examenevaluaties, feedback op opdrachten, het maken van educatieve inhoud, professionele ontwikkeling en het verbeteren van de educatieve ervaringen van studenten. De belangrijkste kansen zijn een verhoogde toegang tot onderwijs, materiële ondersteuning voor het onderwijs en gepersonaliseerd studiemateriaal, het bevorderen van grotere inclusiviteit, verbeterde betrokkenheid van de leerling, ondersteuning voor beoordeling en verbetering van het leren.
   In het onderwijs kan ChatGPT ondersteuning bieden bij lesgeven, onderzoek en schrijven. Het kan helpen bij het maken van instructiemateriaal, het suggereren van onderzoeksmethoden, het verbeteren van schrijfvaardigheden en het bieden van feedback aan studenten. 
+
+  Voorbeeldprompten: 
+  - "Hoe kan ik de betrokkenheid van mijn leerlingen vergroten tijdens online lessen?"
+  - "Help mij met het verbeteren van mijn essay over de invloed van technologie op de samenleving"
 
 - Wetenschap & Technologie
 
   De wetenschap- en technologiedomein heeft toepassingen in modellering, kunstmatige intelligentie (zoals machine learning, deep learning en NLP), informatietechnologie (computing, softwareontwikkeling en data-analyse), programmeren en coderen, het Internet of Things (IoT), cryptografie, cybersecurity, productie, automotive, robotica, luchtvaart en energie.
   In de wetenschap en technologie kan ChatGPT worden ingezet voor taalvertaling, beeldherkenning, voorspellende modellering, cybersecurity en verbetering van productkwaliteit en -efficiëntie.
 
+  Voorbeeldprompten: 
+  - "Kun je deze zin vertalen van Engels naar Frans: 'Hello, how are you?'"
+  - "Hoe kan ik mijn computer beter beveiligen tegen cyberaanvallen?"
+
 - Overheid & Politiek
 
   Het domein van de overheid en politiek heeft toepassingen in politiek en management, internationale betrekkingen, openbaar bestuur, openbare veiligheid, belastingen, recht en justitie, contracten en overeenkomsten en militaire zaken.
   In de overheid en politiek kan ChatGPT helpen bij het verbeteren van beleidsanalyse, openbare veiligheid, belastingaangifte, juridisch onderzoek en militaire toepassingen.
+
+  Voorbeeldprompten: 
+  - "Hoe kan ik de veiligheid op openbare evenementen verbeteren?"
+  - "Kun je me helpen bij het analyseren van de impact van een bepaald overheidsbeleid op de economie?"
 
 - Gezondheidszorg & Geneeskunde
 
   Het domein van de gezondheidszorg en geneeskunde heeft toepassingen in gezondheidszorgsystemen, volksgezondheid, geestelijke gezondheid, biologie, biotechnologie, telemedicine, medisch onderzoek, farmaceutica en diergeneeskunde.
   In de gezondheidszorg en geneeskunde kan ChatGPT worden gebruikt voor symptoomcontrole, gepersonaliseerde gezondheidsaanbevelingen, farmaceutische toepassingen en diergezondheid.
 
+  Voorbeeldprompten: 
+  - "Wat zijn enkele stappen die ik kan nemen om mijn algehele gezondheid te verbeteren?"
+  - "Hoe kan ik de gezondheid van mijn hond optimaliseren?"
+
 - Infrastructuur
 
   In de infrastructuur kan ChatGPT bijdragen aan efficiëntie, kostenverlaging en veiligheid in de bouw, energie- en waterinfrastructuur, architectuur en stedenbouw.
  
+  Voorbeeldprompten: 
+  - "Kun je me adviseren over het ontwerpen van veilige en duurzame stedelijke architectuur?"
+  - "Hoe kan ik de duurzaamheid bevorderen in mijn bouw- en energieprojecten?"
+
 - Milieu & Duurzaamheid
 
   Het domein van milieu en duurzaamheid omvat een reeks toepassingen, waaronder afvalbeheer, hernieuwbare energie, klimaatverandering, landbouw, milieubeleid, biodiversiteit, sociale rechtvaardigheid, ecotoerisme en voedselduurzaamheid.
   In het domein van milieu en duurzaamheid kan ChatGPT helpen bij afvalbeheer, energiebeheer, duurzaamheid en milieubeleid.
+
+  Voorbeeldprompten: 
+  - "Wat zijn de beste praktijken voor het verminderen van voedselverspilling in de horeca?"
+  - "Hoe kan ik hernieuwbare energiebronnen integreren in mijn bedrijfsactiviteiten?"
 
 - Communicatie
 
   Het domein van communicatie heeft toepassingen in media en entertainment, journalistiek, sociale media, telecommunicatie en reclame.
   In communicatie kan ChatGPT worden gebruikt voor gepersonaliseerde aanbevelingen in media en entertainment, contentcreatie, merkpromotie en fraudedetectie.
 
+  Voorbeeldprompten: 
+  - "Hoe kan ik sociale media effectiever gebruiken om mijn merk te promoten?"
+  - "Kun je me helpen bij het schrijven van boeiende content voor mijn nieuwsbrief?"
+
 - Kunst & Cultuur
 
   Het domein van kunst en cultuur omvat een diverse reeks toepassingen, waaronder muziek, kunst en design, mode, schrijven en sciencefiction, gaming, virtual reality, podiumkunsten, galerijen en sociale impact (sociale rechtvaardigheid, milieurechtvaardigheid, activisme, diversiteit, gelijkheid, inclusie en sociaal ondernemerschap).
   In kunst en cultuur kan ChatGPT creatieve inhoud genereren, zoals verhalen, gedichten, scripts en songteksten. Het kan ook helpen bij het vertalen en interpreteren van kunstwerken.
 
+  Voorbeeldprompten: 
+  - "Kun je me helpen bij het schrijven van een scenario voor een theaterstuk?"
+  - "Hoe kan ik virtual reality toepassen om de kunstbeleving van mijn bezoekers te verbeteren?"
+
 - Levensstijl & Ontspanning
 
   Het domein van levensstijl en vrije tijd heeft toepassingen in fitness en sport, entertainment, reizen en gastvrijheid en eten en drinken.
   In levensstijl en ontspanning kan ChatGPT persoonlijk bieden advies over mode, interieurontwerp en reizen. Het helpt ook bij het creëren van recepten, geeft hobby-suggesties en aanbevelingen voor boeken, films, muziek en evenementen.
+
+  Voorbeeldprompten: 
+  - "Kun je me helpen bij het vinden van leuke en unieke reisbestemmingen voor mijn volgende vakantie?"
+  - "Kun je me adviseren over gezonde en lekkere recepten voor een speciaal dieet?"
 
 ChatGPT is makkelijk te gebruiken, het reageert op instructies in de balk onderaan, antwoorden staan direct onder je antwoord en nieuwe sessies kunnen makkelijk gecreëerd worden door linksboven op "New chat" te selecteren. Je kan ook naar oude sessies gaan of opnieuw een antwoord krijgen op een vraag.
 
