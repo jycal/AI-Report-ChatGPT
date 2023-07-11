@@ -1,7 +1,7 @@
 # AI-Report-ChatGPT
 Demystyfing AI & Human Centered Data Products 
 
-ChatGPT is gebruikt om samen te vatten volgens instructies. In Part II en Part III heb ik ChatGPT geinstructeerd om een lap tekst te verkorten en punten te behouden wat ik belangrijk vond. Het verkorte stukken tekst zou dan duidelijk laten zien wat de ik belangrijk vond om te vinden en ik zou met het gebruik van ChatGPT tijd besparen met zelf stukken steeds doorzoeken maar ik moest zelf nog informatie toevoegen omdat de verkorte teksten nog punten kunnen missen. 
+ChatGPT is gebruikt om samen te vatten volgens instructies. In Part II en Part III heb ik ChatGPT geinstructeerd om lappen tekst te verkorten en punten te behouden wat ik belangrijk vond. Het verkorte stukken tekst zou dan duidelijk laten zien wat de ik belangrijk vond om te vinden en ik zou met het gebruik van ChatGPT tijd besparen met zelf stukken steeds doorzoeken maar ik moest zelf nog informatie toevoegen omdat de verkorte teksten nog punten kunnen missen. 
 
 ## Part I
 Wat is Artificial Intelligence precies? AI is in staat om te leren van ervaring dus ze kunnen zich aanpassen aan nieuwe ervaringen net als een mens en hierdoor kunnen ze simpele taken uitvoeren.
