@@ -1,7 +1,7 @@
 # AI-Report-ChatGPT
 Demystyfing AI & Human Centered Data Products 
 
-*ChatGPT is gebruikt voor spelfouten corrigeren van zinnen en samenvatten van zinnen*
+ChatGPT is gebruikt om samen te vatten volgens instructies. In Part II en Part III heb ik ChatGPT geinstructeerd om een lap tekst te verkorten en punten te behouden wat ik belangrijk vond. Het verkorte stukken tekst zou dan duidelijk laten zien wat de ik belangrijk vond om te vinden en ik zou met het gebruik van ChatGPT tijd besparen met zelf stukken steeds doorzoeken maar ik moest zelf nog informatie toevoegen omdat de verkorte teksten nog punten kunnen missen. 
 
 ## Part I
 Wat is Artificial Intelligence precies? AI is in staat om te leren van ervaring dus ze kunnen zich aanpassen aan nieuwe ervaringen net als een mens en hierdoor kunnen ze simpele taken uitvoeren.
@@ -15,6 +15,55 @@ Karakteristieken van AI:
 
 ![Improved Map](https://github.com/jycal/AI-Report-ChatGPT/assets/98151689/4c8b643a-b606-41f1-a986-eac5713ec823)
 Aangepast van de AI Knowledge Map door Francesco Corea.[^14]
+
+In deze Mind Map zie je een actueel overview van Artificial Intelligence. Het is aangepast van de AI Knowledge Map door Francesco Corea waarin hij AI technologieen classificeert. Mijn versie is in de vorm van vertakkingen, het begint met aanpakken van hoe je AI classificeert: 
+
+- Symbolisch: menselijke intelligentie gerepresenteerd door symboolmanipulatie
+- Statistek: wiskudige hulpmiddelen gebruiken voor specefieke subproblemen
+- Sub-symbolisch: geen specefieke kennisrepresentaties kunnen van te voren worden weergeven
+
+Verder vertakt het in paradigma's:
+
+- Logic-based tools: tools die worden gebruikt voor kennisrepresentatie en probleemoplossing en tools gebaseerd op ontologieën en enorme databases van noties, informatie en regels;
+- Probabilistische methoden: tools die agenten in staat stellen te handelen in scenario's met onvolledige informatie;
+- Machine learning: tools die computers in staat stellen te leren van gegevens;
+- Embodied intelligence: engineering toolbox, die ervan uitgaat dat een lichaam (of ten minste een gedeeltelijke set van functies zoals beweging, perceptie, interactie en visualisatie) vereist is voor hogere intelligentie;
+
+Machine learning kan ook weer verdeeld worden in 3 manieren van leren:
+
+- Supervised learning is een methode waarbij de computer getraind wordt om verbanden te zien.
+- Unsupervised learning ontdekt het algoritme zelf een structuur in de input.
+- Reinforcement learning is een methode waarbij een agent leert omgaan met een omgeving door middel van trial-and-error.
+
+Technologieen kunnen vallen onder twee manieren van leren, bijvoorbeeld Image Recognition of alleen 1 methode zoals Machine Translation. 
+
+Alle technologieen:
+
+- Expert Systems: Dit zijn computersystemen die menselijke expertise nabootsen om beslissingen te nemen. Ze gebruiken regels en kennis om problemen op te lossen.
+
+- Robotic Process Automation: Dit is een technologie die bedrijfsprocessen automatiseert met behulp van software robots. Het doel is om repetitieve taken te automatiseren en zo de efficiëntie te verhogen.
+
+- Computer Vision: Dit is een gebied van kunstmatige intelligentie dat zich richt op het begrijpen van visuele informatie.
+  - Activiteitenherkenning: Dit is het proces van het identificeren van menselijke activiteiten op basis van videobeelden.
+  - Beeldherkenning: Dit is het proces van het identificeren van objecten en patronen in afbeeldingen.
+  - Machinale herkenning: Dit is het proces van het identificeren van objecten en patronen in afbeeldingen met behulp van machine learning.
+
+- Distributed AI: Dit is een vorm van kunstmatige intelligentie waarbij meerdere agents samenwerken om een taak uit te voeren.
+  - Multi-agent modellering: Dit is het proces van het modelleren van systemen die bestaan uit meerdere autonome agents.
+  - Agentgebaseerde modellering: Dit is het proces van het modelleren van systemen die bestaan uit autonome agents die met elkaar communiceren.
+  - Zwermintelligentie: Dit is het proces van het modelleren van systemen die bestaan uit autonome agents die samenwerken om een taak uit te voeren.
+
+- Autonome systemen: Dit zijn systemen die in staat zijn om autonoom te werken zonder menselijke tussenkomst. Ze kunnen bijvoorbeeld autonoom rijden of autonoom vliegen.
+
+- Natural Language Processing: Dit is een gebied van kunstmatige intelligentie dat zich richt op het begrijpen en produceren van menselijke taal.
+  - Machinevertaling: Dit is het proces van het vertalen van tekst van de ene taal naar de andere met behulp van computers.
+  - Natuurlijke taalbegrip: Dit is het proces van het begrijpen van menselijke taal door computers.
+  - Natuurlijke taalgeneratie: Dit is het proces van het produceren van menselijke taal door computers.
+
+- Neural Networks: Dit zijn algoritmen die geïnspireerd zijn op de werking van het menselijk brein.
+  - Probabilistisch programmeren: Dit is een methode om probabilistische modellen te bouwen met behulp van neurale netwerken.
+  - Deep learning: Dit is een methode om complexe modellen te bouwen met behulp van meerdere lagen neurale netwerken.
+  - Generatieve tegenstandernetwerken: Dit zijn neurale netwerken die zijn ontworpen om nieuwe gegevens te genereren die lijken op de gegevens waarop ze zijn getraind.
 
 ## Part II
 OpenAI, een AI research en deployment bedrijf, heeft een AI-model getraind genaamd ChatGPT. ChatGPT is in staat om te antwoorden op vragen, excuses aanbieden tegen fouten en instructies te weigeren. ChatGPT is een AI-data product dat is ontwikkeld door OpenAI. Het is een conversatie-interface die gebruik maakt van GPT-onderliggende modellen en InstructGPT-modellen om beter te worden in het afhandelen van complexe gesprekken en interacties. ChatGPT is gratis beschikbaar op de OpenAI-website en heeft ook een premium subscriptie voor meer functions. OpenAI verdient geld door bedrijven API-toegang te bieden tot hun grote generatieve modellen zoals GPT-3 en DALL-E. Bedrijven kunnen deze modellen in hun producten pluggen en deze modellen aanpassen met eigen gegevens en aanvullende AI-kenmerken.
