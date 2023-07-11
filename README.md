@@ -173,12 +173,23 @@ De populairste use-cases voor ChatGPT zijn[^4][^5]:
 1. Conversational AI
    - Het bedrijfs- en industriedomein omvat een breed scala aan toepassingen op het gebied van bedrijfsvoering en management, supply chain management, bedrijfsanalyse, transport, human resources, marketing, e-commerce, accounting, financiën, retail, onroerend goed en verzekeringen. De belangrijkste kansen zijn verhoogde efficiëntie en kostenbesparingen, verbeterde besluitvorming en risicobeperking, betere voorspellingsnauwkeurigheid en geoptimaliseerde planning, verminderde werklast en fraudeopsporing.
    Vaak kan je merken dat chatbots gelimiteerde hoeveelheid zinnen heeft en niet op alles kan antwoorden. Met ChatGPT zou je beter menselijke antwoorden kunnen geven.
+  
+  Voorbeeldprompt:
+  - "Kan je helpen met een tabel maken waarin de inkomsten en uitgaven worden weergeven"
+
 2. Content Creation
    - Het domein van kunst en cultuur omvat een diverse reeks toepassingen, waaronder muziek, kunst en design, mode, schrijven en sciencefiction, gaming, virtual reality, podiumkunsten, galerijen en sociale impact (sociale rechtvaardigheid, milieurechtvaardigheid, activisme, diversiteit, gelijkheid, inclusie en sociaal ondernemerschap).
    ChatGPT kan creative stukken produceren voor bijvoorbeeld blogs en social media of persoonlijke projecten.
+
+  Voorbeeldprompt: 
+  - "Kun je me helpen bij het schrijven van een scenario voor een theaterstuk?"
+
 3. Onderwijs
    - Er zijn veel technologische hulpmiddelen en softwaretoepassingen beschikbaar in het onderwijsdomein die kunnen worden gebruikt voor online leren, taal leren, academisch en algemeen onderzoek, lesgeven ondersteuning, schrijven, examenevaluaties, feedback op opdrachten, het maken van educatieve inhoud, professionele ontwikkeling en het verbeteren van de educatieve ervaringen van studenten. De belangrijkste kansen zijn een verhoogde toegang tot onderwijs, materiële ondersteuning voor het onderwijs en gepersonaliseerd studiemateriaal, het bevorderen van grotere inclusiviteit, verbeterde betrokkenheid van de leerling, ondersteuning voor beoordeling en verbetering van het leren.
    Je kan ChatGPT gebruiken om lesideeën te creëren en het kan je helpen bij het maken van huiswerk. 
+
+  Voorbeeldprompt: 
+  - "Hoe kan ik de betrokkenheid van mijn leerlingen vergroten tijdens online lessen?"
 
 Prompt engineering-technieken worden gebruikt om inhoud te genereren die boeiend en informatief is. Het prestatieniveau en de nauwkeurigheid van ChatGPT in contentcreatie hangt af van de kwaliteit van de trainingsgegevens en de parameters die worden gebruikt om het model te trainen.
 
